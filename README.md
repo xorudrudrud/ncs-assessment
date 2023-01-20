@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset = "utf-8">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="https://xorudrudrud.github.io/ncs-assessment/style.css">
     @import url(https://xorudrudrud.github.io/ncs-assessment/style.css)
   </head>
   <body>
